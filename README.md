@@ -6,17 +6,19 @@ Rifat bro has released an awesome jQuery plugin which adds Avro Phonetic layout 
 
 
 How to use it?
+==============
 
-Download the "avro-phonetic-wp-plugin" plugin & unzip it. 
+=> Download the "avro-phonetic-wp-plugin" plugin & unzip it. 
 
-Now upload "avro-phonetic.php" file to "wp-content/plugins/" directory of you wordpress project. 
+=> Now upload "avro-phonetic.php" file to "wp-content/plugins/" directory of you wordpress project. 
 
-To activate the plugins go to "Plugins" page from WP Dashboard. Activate the plugin.
+=> To activate the plugins go to "Plugins" page from WP Dashboard. Activate the plugin.
 
 
 
 
 Knows Issues:
+=============
 
 => Doesn't work with the Visual Editor (TinyMCE) of WordPress. Please use the HTML editor. Thanks to the Avro team for the nice icons.
 
